@@ -1,0 +1,374 @@
+{
+  "generated_at": "2025-11-20T08:38:13",
+  "kpis": {
+    "generated_at": "2025-11-20T08:38:13",
+    "dso_90": 45.26,
+    "aging_30": 284512231,
+    "aging_60": 218979218,
+    "aging_90": 246556358,
+    "high_util_accounts": [
+      {
+        "customer_id": 4,
+        "name": "Customer 004",
+        "credit_limit_cents": 568148,
+        "outstanding_cents": 31325618,
+        "credit_utilization_pct": 5513.64
+      },
+      {
+        "customer_id": 43,
+        "name": "Customer 043",
+        "credit_limit_cents": 548984,
+        "outstanding_cents": 16354782,
+        "credit_utilization_pct": 2979.1
+      },
+      {
+        "customer_id": 30,
+        "name": "Customer 030",
+        "credit_limit_cents": 1064685,
+        "outstanding_cents": 22688694,
+        "credit_utilization_pct": 2131.02
+      },
+      {
+        "customer_id": 18,
+        "name": "Customer 018",
+        "credit_limit_cents": 771836,
+        "outstanding_cents": 16355827,
+        "credit_utilization_pct": 2119.08
+      },
+      {
+        "customer_id": 35,
+        "name": "Customer 035",
+        "credit_limit_cents": 523247,
+        "outstanding_cents": 10183600,
+        "credit_utilization_pct": 1946.23
+      },
+      {
+        "customer_id": 22,
+        "name": "Customer 022",
+        "credit_limit_cents": 696769,
+        "outstanding_cents": 11614777,
+        "credit_utilization_pct": 1666.95
+      },
+      {
+        "customer_id": 26,
+        "name": "Customer 026",
+        "credit_limit_cents": 1546797,
+        "outstanding_cents": 24832720,
+        "credit_utilization_pct": 1605.43
+      },
+      {
+        "customer_id": 41,
+        "name": "Customer 041",
+        "credit_limit_cents": 1785160,
+        "outstanding_cents": 24370343,
+        "credit_utilization_pct": 1365.16
+      },
+      {
+        "customer_id": 24,
+        "name": "Customer 024",
+        "credit_limit_cents": 1771741,
+        "outstanding_cents": 22577501,
+        "credit_utilization_pct": 1274.31
+      },
+      {
+        "customer_id": 48,
+        "name": "Customer 048",
+        "credit_limit_cents": 2252126,
+        "outstanding_cents": 27867530,
+        "credit_utilization_pct": 1237.39
+      },
+      {
+        "customer_id": 44,
+        "name": "Customer 044",
+        "credit_limit_cents": 2900070,
+        "outstanding_cents": 35480250,
+        "credit_utilization_pct": 1223.43
+      },
+      {
+        "customer_id": 40,
+        "name": "Customer 040",
+        "credit_limit_cents": 3113740,
+        "outstanding_cents": 37681659,
+        "credit_utilization_pct": 1210.17
+      },
+      {
+        "customer_id": 20,
+        "name": "Customer 020",
+        "credit_limit_cents": 2595505,
+        "outstanding_cents": 30224298,
+        "credit_utilization_pct": 1164.49
+      },
+      {
+        "customer_id": 23,
+        "name": "Customer 023",
+        "credit_limit_cents": 3158505,
+        "outstanding_cents": 30621100,
+        "credit_utilization_pct": 969.48
+      },
+      {
+        "customer_id": 8,
+        "name": "Customer 008",
+        "credit_limit_cents": 3503758,
+        "outstanding_cents": 33299436,
+        "credit_utilization_pct": 950.39
+      },
+      {
+        "customer_id": 37,
+        "name": "Customer 037",
+        "credit_limit_cents": 3130708,
+        "outstanding_cents": 29559041,
+        "credit_utilization_pct": 944.16
+      },
+      {
+        "customer_id": 2,
+        "name": "Customer 002",
+        "credit_limit_cents": 3295513,
+        "outstanding_cents": 30542946,
+        "credit_utilization_pct": 926.8
+      },
+      {
+        "customer_id": 28,
+        "name": "Customer 028",
+        "credit_limit_cents": 2084398,
+        "outstanding_cents": 18490779,
+        "credit_utilization_pct": 887.1
+      },
+      {
+        "customer_id": 33,
+        "name": "Customer 033",
+        "credit_limit_cents": 1507293,
+        "outstanding_cents": 12950932,
+        "credit_utilization_pct": 859.22
+      },
+      {
+        "customer_id": 16,
+        "name": "Customer 016",
+        "credit_limit_cents": 2805413,
+        "outstanding_cents": 23008248,
+        "credit_utilization_pct": 820.14
+      },
+      {
+        "customer_id": 46,
+        "name": "Customer 046",
+        "credit_limit_cents": 2004384,
+        "outstanding_cents": 16061180,
+        "credit_utilization_pct": 801.3
+      },
+      {
+        "customer_id": 17,
+        "name": "Customer 017",
+        "credit_limit_cents": 4410197,
+        "outstanding_cents": 34996062,
+        "credit_utilization_pct": 793.53
+      },
+      {
+        "customer_id": 5,
+        "name": "Customer 005",
+        "credit_limit_cents": 2325665,
+        "outstanding_cents": 18090757,
+        "credit_utilization_pct": 777.87
+      },
+      {
+        "customer_id": 45,
+        "name": "Customer 045",
+        "credit_limit_cents": 3765879,
+        "outstanding_cents": 28044477,
+        "credit_utilization_pct": 744.7
+      },
+      {
+        "customer_id": 42,
+        "name": "Customer 042",
+        "credit_limit_cents": 1925472,
+        "outstanding_cents": 14249787,
+        "credit_utilization_pct": 740.07
+      },
+      {
+        "customer_id": 38,
+        "name": "Customer 038",
+        "credit_limit_cents": 3994679,
+        "outstanding_cents": 28519172,
+        "credit_utilization_pct": 713.93
+      },
+      {
+        "customer_id": 15,
+        "name": "Customer 015",
+        "credit_limit_cents": 2273415,
+        "outstanding_cents": 15986220,
+        "credit_utilization_pct": 703.18
+      },
+      {
+        "customer_id": 39,
+        "name": "Customer 039",
+        "credit_limit_cents": 2267640,
+        "outstanding_cents": 15700570,
+        "credit_utilization_pct": 692.37
+      },
+      {
+        "customer_id": 7,
+        "name": "Customer 007",
+        "credit_limit_cents": 3897723,
+        "outstanding_cents": 26246122,
+        "credit_utilization_pct": 673.37
+      },
+      {
+        "customer_id": 29,
+        "name": "Customer 029",
+        "credit_limit_cents": 3085031,
+        "outstanding_cents": 19669202,
+        "credit_utilization_pct": 637.57
+      },
+      {
+        "customer_id": 36,
+        "name": "Customer 036",
+        "credit_limit_cents": 3204238,
+        "outstanding_cents": 20178540,
+        "credit_utilization_pct": 629.75
+      },
+      {
+        "customer_id": 6,
+        "name": "Customer 006",
+        "credit_limit_cents": 3245683,
+        "outstanding_cents": 19374480,
+        "credit_utilization_pct": 596.93
+      },
+      {
+        "customer_id": 14,
+        "name": "Customer 014",
+        "credit_limit_cents": 3057489,
+        "outstanding_cents": 17406596,
+        "credit_utilization_pct": 569.31
+      },
+      {
+        "customer_id": 11,
+        "name": "Customer 011",
+        "credit_limit_cents": 4950812,
+        "outstanding_cents": 26968330,
+        "credit_utilization_pct": 544.73
+      },
+      {
+        "customer_id": 27,
+        "name": "Customer 027",
+        "credit_limit_cents": 3547262,
+        "outstanding_cents": 19304148,
+        "credit_utilization_pct": 544.2
+      },
+      {
+        "customer_id": 50,
+        "name": "Customer 050",
+        "credit_limit_cents": 2237095,
+        "outstanding_cents": 11925467,
+        "credit_utilization_pct": 533.08
+      },
+      {
+        "customer_id": 12,
+        "name": "Customer 012",
+        "credit_limit_cents": 2370928,
+        "outstanding_cents": 12590170,
+        "credit_utilization_pct": 531.02
+      },
+      {
+        "customer_id": 9,
+        "name": "Customer 009",
+        "credit_limit_cents": 4556518,
+        "outstanding_cents": 23675368,
+        "credit_utilization_pct": 519.59
+      },
+      {
+        "customer_id": 34,
+        "name": "Customer 034",
+        "credit_limit_cents": 3866612,
+        "outstanding_cents": 19368976,
+        "credit_utilization_pct": 500.93
+      },
+      {
+        "customer_id": 32,
+        "name": "Customer 032",
+        "credit_limit_cents": 1811736,
+        "outstanding_cents": 8866419,
+        "credit_utilization_pct": 489.39
+      },
+      {
+        "customer_id": 3,
+        "name": "Customer 003",
+        "credit_limit_cents": 1965689,
+        "outstanding_cents": 9491417,
+        "credit_utilization_pct": 482.85
+      },
+      {
+        "customer_id": 49,
+        "name": "Customer 049",
+        "credit_limit_cents": 4830634,
+        "outstanding_cents": 22418623,
+        "credit_utilization_pct": 464.09
+      },
+      {
+        "customer_id": 31,
+        "name": "Customer 031",
+        "credit_limit_cents": 3379190,
+        "outstanding_cents": 14972449,
+        "credit_utilization_pct": 443.08
+      },
+      {
+        "customer_id": 13,
+        "name": "Customer 013",
+        "credit_limit_cents": 4655299,
+        "outstanding_cents": 19875899,
+        "credit_utilization_pct": 426.95
+      },
+      {
+        "customer_id": 21,
+        "name": "Customer 021",
+        "credit_limit_cents": 2799435,
+        "outstanding_cents": 11341782,
+        "credit_utilization_pct": 405.15
+      },
+      {
+        "customer_id": 19,
+        "name": "Customer 019",
+        "credit_limit_cents": 4084702,
+        "outstanding_cents": 15843349,
+        "credit_utilization_pct": 387.87
+      },
+      {
+        "customer_id": 1,
+        "name": "Customer 001",
+        "credit_limit_cents": 3885357,
+        "outstanding_cents": 11958218,
+        "credit_utilization_pct": 307.78
+      },
+      {
+        "customer_id": 47,
+        "name": "Customer 047",
+        "credit_limit_cents": 2730919,
+        "outstanding_cents": 7832607,
+        "credit_utilization_pct": 286.81
+      },
+      {
+        "customer_id": 25,
+        "name": "Customer 025",
+        "credit_limit_cents": 4269315,
+        "outstanding_cents": 11910399,
+        "credit_utilization_pct": 278.98
+      }
+    ],
+    "high_util_count": 49,
+    "failed_promises_30d": 10,
+    "unapplied_cents": 6365600,
+    "dispute_rate_90": 18.88
+  },
+  "rules_triggered": [
+    "Significant 90+ aging: $2,465,564.",
+    "49 high-utilization accounts (top: Customer 004 at 5513.64%).",
+    "10 failed promises (30d).",
+    "Unapplied cash pending: $63,656.",
+    "High dispute rate (90d): 18.88%."
+  ],
+  "recommendations": [
+    "Escalate collections on 90+ bucket; prioritize highest balances.",
+    "Review credit limits and consider soft holds for \u226595.0% utilization.",
+    "Tighten PTP follow-up cadence and require confirmations in writing.",
+    "Apply unapplied cash within 48 hours to reduce reported DSO.",
+    "Audit root causes for disputes (pricing/quantity/PO mismatch)."
+  ],
+  "narrative_markdown": "# Portfolio Summary (Rule-Based)\n\n- **DSO (90d):** 45.26 days  \n- **Aging (30+/60+/90+):** $2,845,122 / $2,189,792 / $2,465,564  \n- **High Utilization (\u226595.0%)**: 49 account(s)  \n- **Failed Promises (30d):** 10  \n- **Unapplied Cash:** $63,656  \n- **Dispute Rate (90d):** 18.88%\n\n**Signals:** Significant 90+ aging: $2,465,564. 49 high-utilization accounts (top: Customer 004 at 5513.64%). 10 failed promises (30d). Unapplied cash pending: $63,656. High dispute rate (90d): 18.88%.\n\n**Actions:** \n- Escalate collections on 90+ bucket; prioritize highest balances.\n- Review credit limits and consider soft holds for \u226595.0% utilization.\\n- Tighten PTP follow-up cadence and require confirmations in writing.\\n- Apply unapplied cash within 48 hours to reduce reported DSO.\\n- Audit root causes for disputes (pricing/quantity/PO mismatch).\\n\n"
+}

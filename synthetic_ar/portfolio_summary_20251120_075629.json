@@ -1,0 +1,18 @@
+{
+  "dso_90": 44.69,
+  "aging_30": 228039114,
+  "aging_60": 259782956,
+  "aging_90": 526977142,
+  "high_util_count": 49,
+  "failed_promises_30d": 0,
+  "unapplied_cents": 6365600,
+  "dispute_rate_90": 24.92,
+  "rules_summary": "Significant 90+ aging: $5,269,771. 49 high-utilization accounts \u226595%. Unapplied cash: $63,656. High dispute rate 90d: 24.92%.",
+  "actions_bullets": [
+    "Escalate collections on 90+; prioritize highest balances.",
+    "Review credit limits; consider soft holds \u226595% utilization.",
+    "Apply unapplied cash within 48 hours to reduce reported DSO.",
+    "Audit dispute root causes (pricing/quantity/PO mismatch)."
+  ],
+  "narrative_markdown": "# Portfolio Summary (Rule-Based)\n\n- **DSO (90d):** 44.69 days\n- **Aging 30/60/90:** $2,280,391 / $2,597,830 / $5,269,771\n- **High-Util Accounts:** 49\n- **Failed Promises (30d):** 0\n- **Unapplied Cash:** $63,656\n- **Dispute Rate (90d):** 24.92%\n\n**Signals:** Significant 90+ aging: $5,269,771. 49 high-utilization accounts \u226595%. Unapplied cash: $63,656. High dispute rate 90d: 24.92%.\n\n**Actions:**\n- Escalate collections on 90+; prioritize highest balances.\n- Review credit limits; consider soft holds \u226595% utilization.\n- Apply unapplied cash within 48 hours to reduce reported DSO.\n- Audit dispute root causes (pricing/quantity/PO mismatch)."
+}

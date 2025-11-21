@@ -1,0 +1,19 @@
+{
+  "dso_90": 45.26,
+  "aging_30": 284512231,
+  "aging_60": 218979218,
+  "aging_90": 246556358,
+  "high_util_count": 49,
+  "failed_promises_30d": 10,
+  "unapplied_cents": 6365600,
+  "dispute_rate_90": 18.88,
+  "rules_summary": "Significant 90+ aging: $2,465,564. 49 high-utilization accounts \u226595%. 10 failed promises in last 30 days. Unapplied cash: $63,656. High dispute rate 90d: 18.88%.",
+  "actions_bullets": [
+    "Escalate collections on 90+; prioritize highest balances.",
+    "Review credit limits; consider soft holds \u226595% utilization.",
+    "Tighten PTP follow-ups; require written confirmations.",
+    "Apply unapplied cash within 48 hours to reduce reported DSO.",
+    "Audit dispute root causes (pricing/quantity/PO mismatch)."
+  ],
+  "narrative_markdown": "# Portfolio Summary (Rule-Based)\n\n- **DSO (90d):** 45.26 days\n- **Aging 30/60/90:** $2,845,122 / $2,189,792 / $2,465,564\n- **High-Util Accounts:** 49\n- **Failed Promises (30d):** 10\n- **Unapplied Cash:** $63,656\n- **Dispute Rate (90d):** 18.88%\n\n**Signals:** Significant 90+ aging: $2,465,564. 49 high-utilization accounts \u226595%. 10 failed promises in last 30 days. Unapplied cash: $63,656. High dispute rate 90d: 18.88%.\n\n**Actions:**\n- Escalate collections on 90+; prioritize highest balances.\n- Review credit limits; consider soft holds \u226595% utilization.\n- Tighten PTP follow-ups; require written confirmations.\n- Apply unapplied cash within 48 hours to reduce reported DSO.\n- Audit dispute root causes (pricing/quantity/PO mismatch)."
+}

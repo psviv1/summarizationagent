@@ -1,0 +1,18 @@
+{
+  "dso_90": 44.82,
+  "aging_30": 262306162,
+  "aging_60": 297583290,
+  "aging_90": 423388070,
+  "high_util_count": 49,
+  "failed_promises_30d": 1,
+  "unapplied_cents": 6365600,
+  "dispute_rate_90": 21.51,
+  "rules_summary": "Monitor DSO and aging accounts closely. High utilization accounts require immediate attention to mitigate risk. Address failed promises and disputes to improve cash flow.",
+  "actions_bullets": [
+    "Engage with high-utilization accounts to negotiate payment plans.",
+    "Investigate and resolve unapplied cash to improve accuracy in accounts.",
+    "Follow up on failed promises to ensure commitments are met.",
+    "Reduce dispute rate by enhancing communication and clarity in billing."
+  ],
+  "narrative_markdown": "The current DSO stands at **44.82 days**, indicating a need for improved collections processes. The aging accounts show significant amounts, particularly in the **90+ days** category, totaling **$423,388,070**. We have **49 high-utilization accounts** that pose a risk to cash flow, and we must prioritize engagement with these customers. Additionally, there is **$6,365,600** in unapplied cash that requires resolution. The **dispute rate** over the past 90 days is at **21.51%**, highlighting a critical area for operational improvement."
+}

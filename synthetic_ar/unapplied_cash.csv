@@ -1,0 +1,21 @@
+unapplied_id,customer_id,as_of_date,amount_cents,note
+1,2,2025-10-07,238100,Synthetic snapshot
+2,6,2025-10-02,135200,Synthetic snapshot
+3,7,2025-10-10,225400,Synthetic snapshot
+4,8,2025-10-06,225800,Synthetic snapshot
+5,9,2025-10-01,463600,Synthetic snapshot
+6,11,2025-10-10,473900,Synthetic snapshot
+7,13,2025-10-06,95100,Synthetic snapshot
+8,14,2025-10-08,228200,Synthetic snapshot
+9,16,2025-10-05,227900,Synthetic snapshot
+10,22,2025-10-06,424400,Synthetic snapshot
+11,23,2025-10-10,288100,Synthetic snapshot
+12,25,2025-10-08,200200,Synthetic snapshot
+13,27,2025-10-01,97100,Synthetic snapshot
+14,29,2025-10-02,383800,Synthetic snapshot
+15,31,2025-10-04,191900,Synthetic snapshot
+16,34,2025-10-04,341700,Synthetic snapshot
+17,37,2025-10-08,272300,Synthetic snapshot
+18,43,2025-10-02,467500,Synthetic snapshot
+19,48,2025-10-07,136400,Synthetic snapshot
+20,50,2025-10-10,425700,Synthetic snapshot
